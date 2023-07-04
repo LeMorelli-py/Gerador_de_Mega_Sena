@@ -1,4 +1,4 @@
-# Gerador_de_Mega_Sena
+#Gerador de MegaSena
 
 No arquivo Automação Mega Sena.ipynb, eu fiz um gerador que randomiza dois jogos aleatórios para Mega-Sena e envia por Whatsapp.
 
